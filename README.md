@@ -1,5 +1,5 @@
 # curl
-Curl rewritten in rust
+A blazing fast curl rewrite in rust
 
 To add flags first add the name and type of the option into the args struct:
 ```diff
